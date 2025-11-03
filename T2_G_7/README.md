@@ -11,7 +11,7 @@ This workspace implements a complete pipeline on TIAGo (simulation) to:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/14Jrj5EGsz4LSt3l2j6b3D4twWaWzWBFn/view?usp=sharing" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=FILE_ID_TASK_2&sz=w1000" alt="Task 2 video preview" width="800" />
+    <img src="https://drive.google.com/thumbnail?id=14Jrj5EGsz4LSt3l2j6b3D4twWaWzWBFn" width="700"/>
   </a>
 </p>
 
